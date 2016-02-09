@@ -7,8 +7,9 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
-
-
+div.words {
+color: blue;
+}
 
 </style>
 </head>
@@ -19,6 +20,6 @@ Code this website!
 
 
 Start Now!
-It's Easy if you know your HTML and CSS
+It's Easy if you know your <div class="word">HTML</div> and <div class="word>CSS</div>
 Due Week 6
 </body>
