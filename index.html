@@ -90,9 +90,17 @@
   font-size: 16px;
 }
   #Contact{
-    background-color: #626556;
+    background: rgba(160,167,145,1);
+background: -moz-linear-gradient(left, rgba(160,167,145,1) 0%, rgba(98,101,86,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(160,167,145,1)), color-stop(100%, rgba(98,101,86,1)));
+background: -webkit-linear-gradient(left, rgba(160,167,145,1) 0%, rgba(98,101,86,1) 100%);
+background: -o-linear-gradient(left, rgba(160,167,145,1) 0%, rgba(98,101,86,1) 100%);
+background: -ms-linear-gradient(left, rgba(160,167,145,1) 0%, rgba(98,101,86,1) 100%);
+background: linear-gradient(to right, rgba(160,167,145,1) 0%, rgba(98,101,86,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a0a791', endColorstr='#626556', GradientType=1 );
     font-size: 35px;
     font-family: 'Raleway', sans-serif;
+
   }
   #footer{
     color:#626556;
@@ -178,11 +186,9 @@ Created by
 </footer>
 
 <script>
-
 function showPrices(){window.open("prices.html","_blank","height=400,width=500,top=200,left=200");
 event.preventDefault();
 }
-
 </script>
 
 </body>
