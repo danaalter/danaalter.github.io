@@ -1,1 +1,21 @@
 
+html {
+	background-image: url(http://i.imgur.com/xZtKVnJ.jpg?1);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-color: #e3f0f8;
+}
+
+
+ul {
+	list-style: none;
+}
+
+li {
+	display: inline;
+	padding: 80px;
+}
+
+.nav {
+	float: right;
+}
