@@ -1,0 +1,63 @@
+html {
+	background-color: #e3f0f8;
+	background-image: url("http://i.imgur.com/ghFwQRw.jpg?1");
+	background-repeat: no-repeat;
+}
+
+.kanye {
+	margin-left: 0;
+
+}
+
+.yeezus{
+	margin-top: 400px;
+margin-left: 80px;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	display: inline;
+	padding: 50px;
+}
+
+#nav {
+	font-family: "amboy-black",sans-serif;
+	font-size: 1em;
+	margin-left: 860px;
+}
+
+
+#about {
+	width: 600px;
+	float: right;
+	margin-top: -615px;
+	margin-right: 90px;
+	font-size: 16.5px;
+	font-family: 'Sintony', sans-serif;
+
+}
+
+.button {
+	background-color: #f58b57;
+	display: inline-block;
+	color: white;
+	font-size: 20px;
+	padding: 15px 40px;
+	text-align: center;
+	margin-left: 900px;
+	border-radius: 12px;
+	border: 1px solid white;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	-webkit-transition-duration: 2.5s;
+	transition-duration: 2.5s;
+}
+
+.button:hover {
+	background-color: white;
+	color: #f58b57;
+	box-shadow: none;
+
+}
