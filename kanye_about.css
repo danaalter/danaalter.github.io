@@ -8,10 +8,15 @@ html {
 	margin-left: 0;
 
 }
+.yeezus {
+	border-bottom: 12px solid #f58b57;
+	border-top: 12px solid #f58b57;
+	margin-right: 769px;
+}
 
-.yeezus{
-	margin-top: 400px;
-margin-left: 80px;
+ div .yeezus {
+	margin-top: 375px;
+	margin-left: 60px;
 }
 
 ul {
@@ -37,6 +42,7 @@ li {
 	margin-right: 90px;
 	font-size: 16.5px;
 	font-family: 'Sintony', sans-serif;
+	text-decoration: none;
 
 }
 
@@ -48,6 +54,7 @@ li {
 	padding: 15px 40px;
 	text-align: center;
 	margin-left: 900px;
+	margin-top: -20;
 	border-radius: 12px;
 	border: 1px solid white;
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
@@ -60,4 +67,16 @@ li {
 	color: #f58b57;
 	box-shadow: none;
 
+}
+
+a {
+	text-decoration: none;
+
+}
+a:visited {
+	text-decoration: none;
+}
+
+div h1 {
+	border-bottom: 5px solid #f58b57;
 }
