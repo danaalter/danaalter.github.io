@@ -21,6 +21,7 @@ h1 {
 .nav {
 	float: right;
 	padding: 10px;
+	margin-top: -250px;
 }
 form {
     margin-left:auto;
