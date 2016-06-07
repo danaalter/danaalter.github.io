@@ -7,7 +7,9 @@ html {
 a {
 	text-decoration: none;
 }
-
+a:hover {
+	color: #f58b57;
+}
 .kanye {
 	margin-left: 0;
 
