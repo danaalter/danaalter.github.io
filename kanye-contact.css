@@ -18,6 +18,8 @@ li {
 	display:inline;
 	padding: 80px;
 	font-size: 2em;
+	font-family: 'Lobster Two', cursive;
+	text-shadow: 2px 2px white;
 }
 h1 {
     color: white;
