@@ -69,5 +69,7 @@ body {
 	margin-bottom: 0;
 }
 img {
-	margin-left: 600px;
+	float: right;
+	margin-top: -55px;
+	margin-right: -55px;
 }
