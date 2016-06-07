@@ -8,11 +8,11 @@ body {
     padding-top: 150px;
 }
 ul{
-	display: inline;
-	padding: 15px;
+	list-style: none;
 }
 li {
-	text-decoration: none;
+	display:inline;
+	padding: 80px;
 }
 h1 {
     color: white;
