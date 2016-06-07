@@ -4,6 +4,9 @@ html {
 	background-repeat: no-repeat;
 	font-family: "paralucent",sans-serif;
 }
+a {
+	text-decoration: none;
+}
 
 .kanye {
 	margin-left: 0;
