@@ -7,6 +7,13 @@ body {
 	  background-size: cover;
     padding-top: 150px;
 }
+ul{
+	display: inline;
+	padding: 15px;
+}
+li {
+	text-decoration: none;
+}
 h1 {
     color: white;
     padding-top: 0px;
