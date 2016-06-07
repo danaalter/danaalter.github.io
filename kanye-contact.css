@@ -13,6 +13,8 @@ ul{
 li {
 	display:inline;
 	padding: 80px;
+	font-size: 2em;
+	color: white;
 }
 h1 {
     color: white;
