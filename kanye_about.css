@@ -49,6 +49,7 @@ li {
 	background-color: #f58b57;
 	display: inline-block;
 	color: white;
+	font-family: "paralucent",sans-serif
 	font-size: 20px;
 	padding: 15px 40px;
 	text-align: center;
@@ -57,12 +58,14 @@ li {
 	border-radius: 12px;
 	border: 1px solid white;
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-	-webkit-transition-duration: 2.5s;
-	transition-duration: 2.5s;
+	-webkit-transition-duration: 4s;
+	transition-duration: 4s;
 }
 
 .button:hover {
-	background-color: white;
+	transition: width;
+	transition-duration: 4s;
+	font-family: "paralucent",sans-serif
 	color: #f58b57;
 	box-shadow: none;
 
