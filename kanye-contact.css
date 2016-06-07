@@ -20,6 +20,7 @@ li {
 	font-size: 3.5em;
 	font-family: 'Lobster Two', cursive;
 	text-shadow: 2px 2px white;
+	text-outline: 1.5px 2px black;
 }
 h1 {
     color: white;
