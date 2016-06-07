@@ -29,7 +29,6 @@ li {
 }
 
 #nav {
-	font-family: "amboy-black",sans-serif;
 	font-size: 1em;
 	margin-left: 860px;
 }
@@ -76,6 +75,7 @@ a {
 a:visited {
 	text-decoration: none;
 }
+
 div h1 {
 	border-bottom: 5px solid #f58b57;
 }
