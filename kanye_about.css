@@ -63,10 +63,8 @@ li {
 }
 
 .button:hover {
-	transition: width;
-	transition-duration: 4s;
 	font-family: "paralucent",sans-serif
-	color: #f58b57;
+	background-color: #57c1f5;
 	box-shadow: none;
 
 }
