@@ -76,11 +76,6 @@ a {
 a:visited {
 	text-decoration: none;
 }
-
-h1 {
-  font-family: "brim-narrow-combined-1",sans-serif;
-  }
-
 div h1 {
 	border-bottom: 5px solid #f58b57;
 }
