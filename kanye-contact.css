@@ -75,8 +75,3 @@ transform: skew(0deg,20deg);
 .animate swing {
     animation: infinite;
 }
-#bird:hover{
-    border-radius: 50%
-    background-color: white;
-
-};
