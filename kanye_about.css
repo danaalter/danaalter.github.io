@@ -2,14 +2,8 @@ html {
 	background-color: #e3f0f8;
 	background-image: url("http://i.imgur.com/ghFwQRw.jpg?1");
 	background-repeat: no-repeat;
-	font-family: "paralucent",sans-serif;
 }
-a {
-	text-decoration: none;
-}
-a:hover {
-	color: #f58b57;
-}
+
 .kanye {
 	margin-left: 0;
 
@@ -18,11 +12,13 @@ a:hover {
 	border-bottom: 12px solid #f58b57;
 	border-top: 12px solid #f58b57;
 	margin-right: 769px;
+	width: 500px;
 }
 
  div .yeezus {
 	margin-top: 375px;
 	margin-left: 60px;
+
 }
 
 ul {
@@ -85,6 +81,7 @@ li {
 
 a {
 	text-decoration: none;
+	color: white;
 
 }
 a:visited {
@@ -97,7 +94,7 @@ div h1 {
 }
 
 h1 {
-  font-family: 'Muli', sans-serif;
+  /*font-family: 'Muli', sans-serif;*/
   font-family: 'Anton', sans-serif;
   font-family: "paralucent",sans-serif;
   }
