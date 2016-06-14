@@ -1,0 +1,66 @@
+
+html {
+	background-image: url(http://i.imgur.com/xZtKVnJ.jpg?1);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-color: #e3f0f8;
+}
+
+
+
+a {
+	text-decoration: none;
+
+}
+li {
+	list-style: none;
+	display: inline-block;
+	padding: 25px;
+}
+a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+.nav {
+	float: right;
+	font-family: "amboy-black",sans-serif;
+	font-size: 45px;
+	transition: 3s;
+	margin-right: 55px;
+	margin-top: 50px;
+	text-decoration: none;
+	-webkit-transition: all 0.7s ease;
+transition: all 0.7s ease;
+}
+/*#gallery a {
+	-webkit-transition: all 0.7s ease;
+transition: all 0.7s ease;
+}
+#about a {
+	-webkit-transition: all 0.7s ease;
+transition: all 0.7s ease;
+}
+a:hover {
+	-webkit-transform:scale(1.2);
+transform:scale(1.2);
+	
+}
+
+a:hover{
+	-webkit-transform:scale(1.2);
+transform:scale(1.2);
+
+}*/
+.nav:hover {
+-webkit-transform:scale(1.2);
+transform:scale(1.2);
+ color: #FF884D;
+}
+
+.animated pulse{
+  webkit-animation-duration: 1s;
+  webkit-animation-delay: 2s;
+  webkit-animation-iteration-count: 3;
+  }
+

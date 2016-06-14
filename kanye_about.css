@@ -1,0 +1,104 @@
+html {
+	background-color: #e3f0f8;
+	background-image: url("http://i.imgur.com/ghFwQRw.jpg?1");
+	background-repeat: no-repeat;
+	font-family: "paralucent",sans-serif;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: #f58b57;
+}
+.kanye {
+	margin-left: 0;
+
+}
+.yeezus {
+	border-bottom: 12px solid #f58b57;
+	border-top: 12px solid #f58b57;
+	margin-right: 769px;
+}
+
+ div .yeezus {
+	margin-top: 375px;
+	margin-left: 60px;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	display: inline;
+	padding: 40px;
+}
+
+#nav {
+	font-family: "azote",sans-serif;
+	font-size: 1.5em;
+	margin-left: 860px;
+	color: black;
+}
+
+
+#about {
+	width: 600px;
+	float: right;
+	margin-top: -615px;
+	margin-right: 90px;
+	font-size: 16.5px;
+	font-family: 'Sintony', sans-serif;
+	text-decoration: none;
+
+}
+
+.button {
+	background-color: #f58b57;
+	display: inline-block;
+	color: white;
+	font-family: "azote",sans-serif;
+	font-size: 30px;
+	padding: 15px 40px;
+	text-align: center;
+	margin-left: 900px;
+	margin-top: -20;
+	border-radius: 12px;
+	border: 1px solid white;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	-webkit-transition-duration: 2s;
+	transition-duration: 2s;
+}
+.button a{
+	color: white;
+}
+
+.button:hover {
+	font-size: 38px;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+
+}
+a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+div h1 {
+	border-bottom: 5px solid #f58b57;
+}
+
+h1 {
+  font-family: "paralucent",sans-serif;
+  }
+h3 {
+  	font-family: "paralucent",sans-serif;
+  }
+  .animated shake{
+  webkit-animation-duration: 3s;
+  webkit-animation-delay: 2s;
+  webkit-animation-iteration-count: 3;
+}
