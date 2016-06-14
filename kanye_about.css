@@ -35,8 +35,8 @@ li {
 }
 
 #nav {
-	font-family: 'Gidugu', sans-serif;
-	font-family: 'Raleway', sans-serif;
+	/*font-family: 'Gidugu', sans-serif;
+	font-family: 'Raleway', sans-serif;*/
 	font-family: "azote",sans-serif;
 	font-size: 1.5em;
 	margin-left: 860px;
@@ -59,7 +59,7 @@ li {
 	background-color: #f58b57;
 	display: inline-block;
 	color: white;
-	font-family: 'Gidugu', sans-serif;
+	/*font-family: 'Gidugu', sans-serif;*/
 	font-family: "azote",sans-serif;
 	font-size: 30px;
 	padding: 15px 40px;

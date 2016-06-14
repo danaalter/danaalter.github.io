@@ -7,7 +7,7 @@ body {
       font-family: "paralucent",sans-serif
 }
 #images {
-    background-color: rgba(255,255,255,.5);
+    background-color: rgba(255,255,255,.75);
     width: 1200px;
     margin: 120 auto;
     padding: 10px;
