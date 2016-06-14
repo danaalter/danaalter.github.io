@@ -53,7 +53,6 @@ body {
 	width: 1200px;
 	margin: 0 auto;
 	position: relative;
-	font-family: 'Raleway', sans-serif;
 }
  div p {
  	width: 300px;
@@ -68,7 +67,7 @@ body {
 	font-size: 20px;
 	text-align: center;
 	padding-top: 20px;
-	/*font-family: 'Amatic SC', cursive;*/
+	font-family: 'Amatic SC', cursive;
 	font-family: 'Sintony', sans-serif;
 	font-family: 'Raleway', sans-serif;
 	font-family: 'Roboto Slab', serif; font-weight: 100;
