@@ -10,12 +10,13 @@ html {
 
 a {
 	text-decoration: none;
+	padding: 15px;
 
 }
 li {
 	list-style: none;
 	display: inline-block;
-	padding: 25px;
+	padding: 35px;
 }
 a:visited {
 	text-decoration: none;
@@ -25,9 +26,10 @@ a:visited {
 .nav {
 	float: right;
 	font-family: "amboy-black",sans-serif;
+	font-family: 'Anton', sans-serif;
 	font-size: 45px;
 	transition: 3s;
-	margin-right: 55px;
+	margin-right: 75px;
 	margin-top: 50px;
 	text-decoration: none;
 	-webkit-transition: all 0.7s ease;
@@ -59,7 +61,7 @@ transform:scale(1.2);
 }
 
 .animated pulse{
-  webkit-animation-duration: 1s;
+  webkit-animation-duration: infinite;
   webkit-animation-delay: 2s;
   webkit-animation-iteration-count: 3;
   }
