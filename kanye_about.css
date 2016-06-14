@@ -36,6 +36,7 @@ li {
 
 #nav {
 	font-family: 'Gidugu', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-family: "azote",sans-serif;
 	font-size: 1.5em;
 	margin-left: 860px;
@@ -73,6 +74,8 @@ li {
 }
 .button a{
 	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-family: "azote",sans-serif;
 }
 
 .button:hover {
