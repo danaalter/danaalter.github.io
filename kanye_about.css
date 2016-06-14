@@ -74,7 +74,7 @@ li {
 }
 .button a{
 	color: white;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Muli', sans-serif;
 	font-family: "azote",sans-serif;
 }
 
@@ -97,11 +97,12 @@ div h1 {
 }
 
 h1 {
-  font-family: "paralucent",sans-serif;
+  font-family: 'Muli', sans-serif;
   font-family: 'Anton', sans-serif;
   font-family: "paralucent",sans-serif;
   }
 h3 {
+	font-family: 'Muli', sans-serif;
   	font-family: 'Anton', sans-serif;
   	font-family: "paralucent",sans-serif;
   }

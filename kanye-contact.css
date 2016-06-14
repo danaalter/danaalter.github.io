@@ -62,7 +62,7 @@ h1:hover {
 transform: skew(0deg,20deg);
 }
 
-  .animated shake{
+  .animated tada{
   webkit-animation-duration: 3s;
   webkit-animation-delay: 2s;
   webkit-animation-iteration-count: 3;
@@ -72,6 +72,6 @@ transform: skew(0deg,20deg);
     margin-left: 200px;
     margin-top: -200px;
 }
-.animate swing {
+.animated swing{
     animation: infinite;
 }

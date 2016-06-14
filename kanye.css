@@ -61,7 +61,7 @@ transform:scale(1.2);
 }
 
 .animated pulse{
-  webkit-animation-duration: infinite;
+  webkit-animation-duration: 5s;
   webkit-animation-delay: 2s;
   webkit-animation-iteration-count: 3;
   }
